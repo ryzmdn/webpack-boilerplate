@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_boilerplate=self.webpackChunkwebpack_boilerplate||[]).push([[792],{103:function(){(()=>{const n=document.getElementById("app");n?n.innerHTML='\n    <main class="app-container">\n      <h1>🎉 Hello, Webpack 5!</h1>\n      <div class="environment-info">\n        <p>Environment: <strong>production</strong></p>\n        \n      </div>\n      <p>🚀 You are in production mode</p>\n    </main>\n  ':console.error("App element not found")})()}},function(n){n(n.s=103)}]);
+//# sourceMappingURL=main.dbec9a54.js.map
